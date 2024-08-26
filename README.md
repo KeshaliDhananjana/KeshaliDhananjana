@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I’m currently learning **Java with React and Flutter** <br>
-🧑‍🎓 I’m an Undergraduate at University of Colombo School of Computing <br>
-💬 Ask me about Web Development and Mobile App Development <br>
+🧑‍🎓 I’m an Undergraduate at **University of Colombo School of Computing** <br>
+💬 Ask me about **Web Development and Mobile App Development** <br>
 📫 How to reach me: keshdhananjana@gmail.com <br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -45,10 +45,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/keshali-dhananjana](https://www.linkedin.com/in/keshali-dhananjana-63b88b2a3/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshali-dhananjana" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" /></a>
-<a href="https://kaggle.com/your-kaggle-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle-id" height="30" width="40" /></a>
 <a href="https://instagram.com/your-instagram-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-id" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/facebook.svg" alt="your-facebook-id" height="30" width="40" /></a>
+
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeshaliDhananjana&label=Profile%20views&color=0e75b6&style=flat" alt="KeshaliDhananjana" /> </p>
