@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keshali-dhananjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshali-dhananjana" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/keshali-dhananjana](https://www.linkedin.com/in/keshali-dhananjana-63b88b2a3/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshali-dhananjana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" /></a>
 <a href="https://kaggle.com/your-kaggle-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle-id" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-id" height="30" width="40" /></a>
+<a href="https://instagram.com/your-instagram-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-id" height="30" width="40" /></a>
+<a href="https://instagram.com/your-instagram-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/facebook.svg" alt="your-facebook-id" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeshaliDhananjana&label=Profile%20views&color=0e75b6&style=flat" alt="KeshaliDhananjana" /> </p>
-
-
-Last Edited on: 28/02/2023
