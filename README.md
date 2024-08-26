@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **WEB Development Full-Stack** <br>
-👯 I’m looking to collaborate on ...<br>
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+🌱 I’m currently learning **Java with React and Flutter** <br>
+🧑‍🎓 I’m an Undergraduate at University of Colombo School of Computing <br>
+💬 Ask me about Web Development and Mobile App Development <br>
+📫 How to reach me: keshdhananjana@gmail.com <br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
