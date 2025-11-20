@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-🌱 I’m currently learning **Java, React, Angular and Selenium** <br>
-🧑‍🎓 I’m an Undergraduate at **University of Colombo School of Computing** <br>
+🌱 I’m currently learning **Angular, React, Java and Selenium** <br>
+🧑‍🎓 I’m a graduate from **University of Colombo School of Computing** <br>
+✨ I have completed **ISTQB Foundation Level Examination** <br>
 💬 Ask me about **Web Development and Quality Assurance** <br>
 📫 How to reach me: keshdhananjana@gmail.com <br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
